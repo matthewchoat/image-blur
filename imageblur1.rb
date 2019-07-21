@@ -9,8 +9,8 @@ class Image
       puts cell.join
     end
   end
-end
 
+  end      
 
 image = Image.new([
   [0, 0, 0, 0],
@@ -20,3 +20,6 @@ image = Image.new([
 ])
 
 image.output_image
+
+
+
