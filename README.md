@@ -1,3 +1,3 @@
 ## Image Blur Problem
 
-Solution and Tests to the SMU Image #2 problem.
+A Ruby challenge to practice various coding techniques using grids and arrays.
